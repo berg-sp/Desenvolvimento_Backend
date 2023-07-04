@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44d632f3-2eb5-4d08-8768-a6dccede66a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ex02/consumindo-api/src/main/java/com/example/consumindoapi/controller/DigimonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/consumindo-api/src/main/java/com/example/consumindoapi/controller/PokemonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/consumindo-api/src/main/java/com/example/consumindoapi/model/Digimon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/consumindo-api/src/main/java/com/example/consumindoapi/model/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/consumindo-api/src/main/java/com/example/consumindoapi/model/PokemonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../lista/Lista02/verificar-cep/src/main/java/br/com/viacep/verificarcep/controller/EnderecoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../lista/Lista02/verificar-cep/src/main/java/br/com/viacep/verificarcep/model/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lista/ex01/src/main/java/com/example/ex01/controller/ProdutoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lista/ex01/src/main/java/com/example/ex01/model/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lista/ex02/src/main/java/com/example/ex02/Model/Jogo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lista/ex02/src/main/java/com/example/ex02/controller/JogoController.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Rek9dRprzb7xZuPcW2afrMtQM6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_III/Desenvolvimento_Backend/aulas/aula02/ex01"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44d632f3-2eb5-4d08-8768-a6dccede66a3" name="Changes" comment="" />
+      <created>1687617784146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687617784146</updated>
+    </task>
+    <servers />
+  </component>
+</project>

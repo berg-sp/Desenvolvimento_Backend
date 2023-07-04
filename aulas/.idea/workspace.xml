@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63868008-4fa7-4d79-9a44-1f2eb8be30c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aula01/revisao-maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula01/revisao-maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula01/revisao-maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula01/revisao-maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula01/revisao-maven/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula01/revisao-maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula01/revisao-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula01/revisao-maven/src/main/java/br/com/revisao/RevisaoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/src/main/java/br/com/ecomerce/EcomerceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/src/main/java/br/com/ecomerce/controller/ProdutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/src/main/java/br/com/ecomerce/model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/src/main/java/br/com/ecomerce/repository/BancoDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/src/main/java/br/com/ecomerce/service/ProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_e-commerce/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/br/com/transporte/TransporteApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/br/com/transporte/controller/DevolucaoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/br/com/transporte/controller/EnvioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/br/com/transporte/controller/TransporteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/br/com/transporte/model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/br/com/transporte/service/TransporteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/br/com/transporte/utils/Correios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/br/com/transporte/utils/Sedex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/br/com/transporte/utils/ServicoTranporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/apagar_untitled/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/e-commerce/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/e-commerce/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/e-commerce/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/e-commerce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/e-commerce/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/e-commerce/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/e-commerce/src/main/java/br/com/ecomerce/EcomerceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/biblioteca/src/main/java/com/example/biblioteca/controller/LivroController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/biblioteca/src/main/java/com/example/biblioteca/model/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/controller/DigimonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/controller/DigimonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/controller/PokemonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/controller/PokemonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/model/Digimon.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/model/Digimon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/model/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/model/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/model/PokemonResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/ex02/consumindo-api/src/main/java/com/example/consumindoapi/model/PokemonResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista/ex01/src/main/java/com/example/ex01/controller/ProdutoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista/ex01/src/main/java/com/example/ex01/model/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista/ex02/src/main/java/com/example/ex02/Model/Jogo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista/ex02/src/main/java/com/example/ex02/controller/JogoController.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S2G9SKApSs0bjE64xqPrdfN2TP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_III/Desenvolvimento_Backend/aulas/aula03/e-commerce"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63868008-4fa7-4d79-9a44-1f2eb8be30c8" name="Changes" comment="" />
+      <created>1688337110212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688337110212</updated>
+    </task>
+    <servers />
+  </component>
+</project>
