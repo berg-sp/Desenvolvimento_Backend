@@ -19,5 +19,4 @@ public class DeliveryController {
     public String enviarProduto(@RequestBody Produto produto){
         return deliveryService.enviar(produto);
     }
-
 }
