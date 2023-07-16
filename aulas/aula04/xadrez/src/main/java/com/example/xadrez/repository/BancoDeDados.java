@@ -18,7 +18,7 @@ public class BancoDeDados {
         torneios.add(new Torneio(3, "Copa do mundo", "Africa do Sul", new BigDecimal(1000)));
     }
 
-    public List(Torneio) findAll(){
+    public List<Torneio> findAll() {
         return torneios;
     }
 
