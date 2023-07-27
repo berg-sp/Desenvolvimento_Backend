@@ -13,8 +13,8 @@ public class BancoDeDados {
 
     public BancoDeDados(){
         cosmeticos.add(new Cosmetico(1, "Shampoo", 29.00, "https://img.freepik.com/vetores-premium/shampoo-natural-organic-skin-care-products-shampoo-natural-para-cabelos-cosmeticos-com-ervas-para-o-corpo-ilustracoes-modernas-de-desenhos-animados-vetoriais-isoladas-em-um-fundo-branco_501069-1963.jpg"));
-        cosmeticos.add(new Cosmetico(2, "Condicionador", 24.00, "https://cdn-icons-png.flaticon.com/512/1234/1234274.png"));
-        cosmeticos.add(new Cosmetico(3, "Sabonete Liquido", 19.00, "https://cdn-icons-png.flaticon.com/512/1900/1900946.png"));
+        cosmeticos.add(new Cosmetico(2, "Condicionador", 24.00, "https://media.istockphoto.com/id/1173084169/pt/vetorial/hand-drawn-texture-shampoo-conditioner-design.jpg?s=1024x1024&w=is&k=20&c=sPuFZ1Xg3YLFHgcAq6P6QBo8lNXCEAGoxY9v4SZv_cY="));
+        cosmeticos.add(new Cosmetico(3, "Sabonete Liquido", 19.00, "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PVpJEIIlN2nDUtUnh7GfZnPPX8-4Ab-QRQ&usqp=CAU"));
     }
 
     public List<Cosmetico> findAll(){
