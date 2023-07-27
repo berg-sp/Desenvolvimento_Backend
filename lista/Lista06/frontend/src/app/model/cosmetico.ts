@@ -4,3 +4,4 @@ export class Cosmetico {
   private preco!: number;
   private imagem!: string;
 }
+
