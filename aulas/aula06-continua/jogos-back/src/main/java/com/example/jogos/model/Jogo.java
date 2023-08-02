@@ -1,9 +1,8 @@
-package com.example.lojagamesback.model;
+package com.example.jogos.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Jogo {
-
     private int id;
     private String nome;
     private String descricao;
