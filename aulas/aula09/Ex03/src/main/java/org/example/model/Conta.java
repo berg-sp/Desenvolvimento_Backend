@@ -1,10 +1,8 @@
 package org.example.model;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 import javax.validation.constraints.NotNull;
+import java.util.List;
 
 @Entity
 public class Conta {
@@ -19,14 +17,8 @@ public class Conta {
     @NotNull
     private int digito;
 
-    public Conta() {
-    }
-
-    public Conta(int id, int numero, int digito) {
-        this.id = id;
-        this.numero = numero;
-        this.digito = digito;
-    }
+    @OneToMany(mappedBy = "conta", cascade = CascadeType.ALL)
+    private List<Usuario> usuarios;
 
     public int getId() {
         return id;
@@ -50,5 +42,13 @@ public class Conta {
 
     public void setDigito(int digito) {
         this.digito = digito;
+    }
+
+    public List<Usuario> getUsuarios() {
+        return usuarios;
+    }
+
+    public void setUsuarios(List<Usuario> usuarios) {
+        this.usuarios = usuarios;
     }
 }
