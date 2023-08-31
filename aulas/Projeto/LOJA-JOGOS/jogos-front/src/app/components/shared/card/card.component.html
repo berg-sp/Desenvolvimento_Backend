@@ -1,0 +1,15 @@
+<div class="card" style="width: 18rem;">
+  <img src="{{jogo.imagem}}" class="card-img-top" alt="...">
+  <div class="card-body">
+    <div class="d-flex justify-content-between">
+      <h5 class="card-title">{{ jogo.nome }}</h5>
+      <fa-icon class="favoritar" (click)="favoritarJogo()"
+        [class.estaFavoritado]="jogo.esta_favoritado"
+        [icon]="faHeart"></fa-icon>
+    </div>
+
+    <p class="card-text">{{ jogo.descricao }}</p>
+    <p class="card-text">R${{ jogo.preco }}</p>
+    <a href="" class="btn btn-primary">Comprar</a>
+  </div>
+</div>

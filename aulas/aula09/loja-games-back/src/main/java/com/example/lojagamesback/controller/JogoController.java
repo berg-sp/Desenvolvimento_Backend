@@ -25,4 +25,10 @@ public class JogoController {
     public ResponseEntity<Jogo> save(@RequestBody Jogo jogo) {
         return ResponseEntity.ok(jogoService.save(jogo));
     }
+
+    @PutMapping("/favoritar/{id}")
+    public ResponseEntity<Jogo> favoritar(@PathVariable int id) {
+        Jogo jogo = jogoService.favoritar(id);
+        return ResponseEntity.status(HttpStatus.OK).body(jogo);
+    }
 }
